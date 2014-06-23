@@ -1,4 +1,4 @@
-node-static-site
+node-static-site [![NPM Module](http://img.shields.io/npm/v/node-static-site.svg?style=flat)](https://npmjs.org/package/node-static-site)
 ================
 
 - Deploy this to somewhere that supports Procfiles, or just somewhere that will call `npm start` for you.  
